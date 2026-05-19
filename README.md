@@ -1,4 +1,4 @@
-#  Gabriel Gonzales
+# 👨🏻‍💻 Gabriel Gonzales
 
 **`Frontend Developer`**
 
