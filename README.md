@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Gonzales
+# Gabriel Gonzales
 
 **`Frontend Developer`**
 
@@ -9,21 +9,21 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/devgabrielgonzales?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/devgabrielgonzales?color=BFF549&style=for-the-badge&labelColor=9BCC2E&logo=star&logoColor=1a1a1a&label=estrelas"
         />
     </a>
     <a href="https://github.com/devgabrielgonzales?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/devgabrielgonzales?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/devgabrielgonzales?color=BFF549&labelColor=9BCC2E&style=for-the-badge&logo=github&label=Seguidores&logoColor=1a1a1a"
         />
     </a>
     <a href="https://github.com/devgabrielgonzales">
         <img 
             alt="Visitantes do perfil" 
             title="Visitantes do perfil" 
-            src="https://custom-icon-badges.demolab.com/badge/Visitantes-Bem%20vindo-7B3FE4?style=for-the-badge&logo=eye&logoColor=white&labelColor=6228C7"
+            src="https://custom-icon-badges.demolab.com/badge/Visitantes-Bem%20vindo-BFF549?style=for-the-badge&logo=eye&logoColor=1a1a1a&labelColor=9BCC2E"
         />
     </a>
 </p>
@@ -77,7 +77,7 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px; background-color: white; border-radius: 50%;" 
+    style="padding-right: 10px; background-color: #BFF549; border-radius: 50%;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
@@ -141,7 +141,7 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
     alt="Vercel" 
     title="Vercel"
     width="30px" 
-    style="padding-right: 10px; background-color: white; border-radius: 50%;" 
+    style="padding-right: 10px; background-color: #BFF549; border-radius: 50%;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
 />
 
@@ -153,7 +153,7 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
 <a href="https://github.com/devgabrielgonzales">
   <img 
     alt="Resumo do perfil de Gabriel" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=github_dark" 
   />
 </a>
 
@@ -161,13 +161,13 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=github_dark" 
   />
 </a>
 <a href="https://github.com/devgabrielgonzales">
   <img 
     align="left" 
     alt="Estatísticas gerais" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=github_dark" 
   />
 </a>
