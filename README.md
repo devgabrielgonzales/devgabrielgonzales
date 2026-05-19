@@ -150,24 +150,21 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/devgabrielgonzales">
+<p>
   <img 
-    alt="Resumo do perfil de Gabriel" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=monokai" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=devgabrielgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</a>
 
-<a href="https://github.com/devgabrielgonzales">
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=monokai" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielgonzales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</a>
-<a href="https://github.com/devgabrielgonzales">
-  <img 
-    align="left" 
-    alt="Estatísticas gerais" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=monokai" 
-  />
-</a>
+
+</p>
+
