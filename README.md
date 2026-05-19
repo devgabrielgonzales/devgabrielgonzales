@@ -34,16 +34,16 @@ Olá! Me chamo Gabriel Gonzales e sou desenvolvedor frontend. _[Substitua este p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS3" 
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -77,12 +77,12 @@ Olá! Me chamo Gabriel Gonzales e sou desenvolvedor frontend. _[Substitua este p
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color: white; border-radius: 50%;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
+    alt="Tailwind CSS" 
     title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
@@ -141,7 +141,7 @@ Olá! Me chamo Gabriel Gonzales e sou desenvolvedor frontend. _[Substitua este p
     alt="Vercel" 
     title="Vercel"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color: white; border-radius: 50%;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
 />
 
@@ -150,19 +150,21 @@ Olá! Me chamo Gabriel Gonzales e sou desenvolvedor frontend. _[Substitua este p
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devgabrielgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="Top Linguagens" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielgonzales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">
+  <a href="https://github.com/devgabrielgonzales">
+    <img 
+      align="center" 
+      alt="Estatísticas do GitHub de Gabriel" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=devgabrielgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" 
+    />
+  </a>
+  <a href="https://github.com/devgabrielgonzales">
+    <img 
+      align="center" 
+      alt="Linguagens mais usadas por Gabriel" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielgonzales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+    />
+  </a>
 </p>
