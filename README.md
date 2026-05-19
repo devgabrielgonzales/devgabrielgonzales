@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-Olá! Me chamo Gabriel Gonzales e sou desenvolvedor frontend. _[Substitua este parágrafo: conte um pouco sobre você — sua idade, de onde é, o que estuda ou onde trabalha, e o que te motiva no desenvolvimento. Exemplo: "Tenho XX anos, sou de [cidade], e atualmente curso/trabalho com [...]. Gosto de construir interfaces limpas e bem pensadas, e venho explorando como integrar IA no fluxo de desenvolvimento para criar produtos cada vez melhores."]_
+Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou apaixonado por tecnologia e por construir interfaces limpas, rápidas e bem pensadas. Estou sempre em busca de aprender coisas novas e venho explorando como integrar IA no fluxo de desenvolvimento para criar produtos cada vez melhores.
 
 <p align="left">
     <a href="https://github.com/devgabrielgonzales?tab=repositories&sort=stargazers">
@@ -150,21 +150,24 @@ Olá! Me chamo Gabriel Gonzales e sou desenvolvedor frontend. _[Substitua este p
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <a href="https://github.com/devgabrielgonzales">
-    <img 
-      align="center" 
-      alt="Estatísticas do GitHub de Gabriel" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=devgabrielgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" 
-    />
-  </a>
-  <a href="https://github.com/devgabrielgonzales">
-    <img 
-      align="center" 
-      alt="Linguagens mais usadas por Gabriel" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielgonzales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-    />
-  </a>
-</p>
+<a href="https://github.com/devgabrielgonzales">
+  <img 
+    alt="Resumo do perfil de Gabriel" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=tokyonight" 
+  />
+</a>
+
+<a href="https://github.com/devgabrielgonzales">
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=tokyonight" 
+  />
+</a>
+<a href="https://github.com/devgabrielgonzales">
+  <img 
+    align="left" 
+    alt="Estatísticas gerais" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=tokyonight" 
+  />
+</a>
