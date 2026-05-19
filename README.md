@@ -150,21 +150,24 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <a href="https://github.com/devgabrielgonzales">
-    <img 
-      align="center" 
-      alt="Estatísticas do GitHub de Gabriel" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=devgabrielgonzales&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=BFF549&icon_color=BFF549&text_color=c9d1d9&ring_color=BFF549" 
-    />
-  </a>
-  <a href="https://github.com/devgabrielgonzales">
-    <img 
-      align="center" 
-      alt="Linguagens mais usadas por Gabriel" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielgonzales&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=BFF549&text_color=c9d1d9" 
-    />
-  </a>
-</p>
+<a href="https://github.com/devgabrielgonzales">
+  <img 
+    alt="Resumo do perfil de Gabriel" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=monokai" 
+  />
+</a>
+
+<a href="https://github.com/devgabrielgonzales">
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=monokai" 
+  />
+</a>
+<a href="https://github.com/devgabrielgonzales">
+  <img 
+    align="left" 
+    alt="Estatísticas gerais" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=monokai" 
+  />
+</a>
