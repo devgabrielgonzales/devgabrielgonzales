@@ -153,7 +153,7 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
 <a href="https://github.com/devgabrielgonzales">
   <img 
     alt="Resumo do perfil de Gabriel" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=vue" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielgonzales&theme=2077" 
   />
 </a>
 
@@ -161,13 +161,13 @@ Olá! Me chamo Gabriel Gonzales, tenho 28 anos e sou desenvolvedor frontend. Sou
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=vue" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielgonzales&theme=2077" 
   />
 </a>
 <a href="https://github.com/devgabrielgonzales">
   <img 
     align="left" 
     alt="Estatísticas gerais" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=vue" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielgonzales&theme=2077" 
   />
 </a>
